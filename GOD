@@ -9,7 +9,7 @@ _HELLBOT_MAIN() {
     $(_python_ 'from git import Repo
 import sys
 
-_UPSTREAM_ = "https://github.com/The-Hellbot/HellBot"
+_UPSTREAM_ = "https://github.com/Godfatherakkii/Godfather_Userbot"
 _BRANCH_ = "master"
 
 repo = Repo.init()
@@ -19,18 +19,18 @@ repo.create_head(_BRANCH_, origin.refs[_BRANCH_])
 repo.heads[_BRANCH_].checkout(True) ')
 }
 
-_hell_repo () {
+_god_repo () {
     local hrepo
     hrepo=`echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1IZWxsQm90L1BsdWdpbnM=" | base64 -d`
     echo "$rlink"
 }
 
-_hell_zip () {
+_god_zip () {
     echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1IZWxsQm90L1BsdWdpbnMvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
 }
 
-_HELLBOT_PLUG() {
-    local hrepo=$(_hell_repo)
+_GODBOT_PLUG() {
+    local hrepo=$(_god_repo)
     $(_python_ 'from git import Repo
 import sys
 _UPSTREAM_ = "'$hrepo'"
@@ -44,18 +44,18 @@ repo.heads[_BRANCH_].checkout(True) ')
 
 _starter () {
     local hellpath
-    hellpath="Plugins.zip"
+    godpath="Plugins.zip"
     echo "••• DOWNLOADING HELLBOT •••"
-    wget -q $(_hell_zip) -O "$hellpath"
-    HELLPATH=$(zipinfo -1 "$hellpath" | grep -v "/.");
+    wget -q $(_god_zip) -O "$hellpath"
+    GODPATH=$(zipinfo -1 "$hellpath" | grep -v "/.");
     unzip -qq "$hellpath"
     rm -rf "$hellpath"
-    # _HELLBOT_MAIN
-    cd $HELLPATH
-    # _HELLBOT_PLUG
+    # _GODBOT_MAIN
+    cd $GODPATH
+    # _GODBOT_PLUG
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    echo "••• STARTING HELLBOT •••"
-    python3 -m hellbot
+    echo "••• STARTING GODBOT •••"
+    python3 -m godbot
 }
 
 _starter
