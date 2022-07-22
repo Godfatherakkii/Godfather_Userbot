@@ -59,7 +59,7 @@ wand
 wget
 wheel
 
-git+https://github.com/HellBoy-OP/py-googletrans
-git+https://github.com/HellBoy-OP/Wikipedia
-git+https://github.com/HellBoy-OP/yt-fork
-git+https://github.com/HellBoy-OP/yt-search-python
+git+https://github.com/Godfatherakkii/py-googletrans
+git+https://github.com/Godfatherakkii/Wikipedia
+git+https://github.com/Godfatherakkii/yt-fork
+git+https://github.com/Godfatherakkii/yt-search-python
