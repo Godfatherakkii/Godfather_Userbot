@@ -30,3 +30,5 @@ if okvai == "69":
         print("Please Enter 1 or 2 only.")
 else:
     print("Bhag jaa bhosdike")
+
+    
