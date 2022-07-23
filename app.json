@@ -1,16 +1,16 @@
 {
-  "name": "Lêɠêɳ̃dẞο†",
-  "description": "LegendBot is one of the best userbot on telegram based on telethon & python",
-  "logo": "https://telegra.ph/file/ac9bd7bcdac984dd407b2.jpg",
+  "name": "God Fatherẞο†",
+  "description": "God FatherBot is one of the best userbot on telegram based on telethon & python",
+  "logo": "https://te.legra.ph/file/d59e3d187b71344f8c437.jpg",
   "keywords": [
     "telegram",
     "userbot",
     "plugin",
-    "legendbot",
+    "godbot",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-AI/LEGENDBOT/",
+  "repository": "https://github.com/Godfatherakkii/Godfather_Userbot/",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -28,7 +28,7 @@
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
-    "LEGEND_STRING": {
+    "GOD_STRING": {
       "description": "Get this value by running https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py",
       "value": ""
     },
@@ -53,7 +53,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "U Can Use This To Set Own Commands To Know More About It. ask in Group",
-      "value": "pro",
+      "value": "father",
       "required": false
     },
     "EXTRA_REPO": {
