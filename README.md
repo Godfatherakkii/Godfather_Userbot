@@ -1,6 +1,14 @@
-[![GODBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
+[![GODBOT](https://te.legra.ph/file/d59e3d187b71344f8c437.jpg)](https://github.com/Godfatherakkii/Godfather-addons)
 
+<h2 align="center"><b> ⠐💥💫Personal ★GOD FATHER USERBOT 】Information💫💥 ⠐ </b></h2>
 
+<p align='Middle'><a href='https://t.me/'><img src='https://te.legra.ph/file/d59e3d187b71344f8c437.jpg' width='750"'></a></p>
+<p align="center">
+ 
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝑨+𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆+𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓+𝒇𝒓𝒐𝒎+Rajasthan%E2%9C%8C%EF%B8%8F;PHP%2C+Linux%2C+Hack%2C+Telethon%2C+Pyrogram%2C+Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
+</p> 
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=AKKI+BOY+Hacker+DarkWeb+NAGPURE%E2%9C%8C%EF%B8%8F;GOD-FATHER%2C+OP%2C+OPBOTS%2C+BOTS%2C+MUSIC%2C+HACKER%2C+HACKBOT%2C+USERBOT%E2%9D%A4%EF%B8%8F">
 <h1 align="center">
 <b> 『God Father ẞø†』 </b>
 </h1>
