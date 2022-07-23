@@ -10,15 +10,14 @@
 </p> 
 <br>
 
-[![GOD-FATHER-USERBOT](https://te.9.jpg)](https://github.com//)
+[![GOD FATHER USERBOT](https://te.legra.ph/file/8b2ffc18117e911a30f56.jpg)](https://github.com/Godfatherakkii/Godfather_Userbot)
 
 <h6 align="center">
   <b>⭐̲ God-Father UserBot Is One Of The Unique & Fastest & Smoothest Ultra Speedo Bot On Telegram Based on Telethon ⭐̲</b>
 </h6>
 
 ---------
-
-<h4> Deploy God-Father-Userẞø† </h4>
+<h4> Deploy God-Father userẞø† </h4>
 
 
 
