@@ -1,4 +1,4 @@
-[![GODBOT](https://te.legra.ph/file/d59e3d187b71344f8c437.jpg)](https://github.com/Godfatherakkii/Godfather-addons)
+[![GODFATHERBOT](https://te.legra.ph/file/d59e3d187b71344f8c437.jpg)](https://github.com/Godfatherakkii/Godfather-addons)
 
 <h2 align="center"><b> ⠐💥💫Personal ★GOD FATHER USERBOT 】Information💫💥 ⠐ </b></h2>
 
@@ -38,8 +38,8 @@
 ------
 
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/GODFATHERUSERBOT_SUPPORT)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/GODFATHERUSERBOT_UPDATE)
 
 ------
 
