@@ -92,7 +92,7 @@ _start_bot () {
     chmod -R 755 bin
     echo "    Starting GodUserBot    "
     echo " PowerFull Bots On Telegram "
-    python3 -m Godbot
+    python3 -m GODBOT
 }
 
 _start_bot
